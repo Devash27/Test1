@@ -1,6 +1,6 @@
 <<div id="London" class="city">
   <h2>London</h2>
-  <p>London is the capital of England.</p>
+  <p>London1 is the capital of England.</p>
 </div>
 
 <div id="Paris" class="city" style="display:none">
